@@ -2,7 +2,7 @@
 ## Description
  a simple Python program that reads the log files of T-rex miner and displays the number of shares. works as a contribution measure when mining with multiple rigs that are associated with one Wallet.
  
-###Features:
+##Features:
  
 	- a simple GUI	
 	- Path and data are saved for the next the program is run
